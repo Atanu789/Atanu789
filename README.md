@@ -30,9 +30,12 @@
 </p>
 
 
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu789&show_icons=true&locale=en&theme=dracula" alt="atanu789" /> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu789&theme=dracula" alt="atanu789" 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu789&show_icons=true&locale=en&theme=dracula" alt="atanu789" width="350" style="margin-right: 20px;" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu789&theme=dracula" alt="atanu789" width="370" style="margin-left: 20px;" />
 </div>
+
+
+
 
 
