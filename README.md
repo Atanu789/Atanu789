@@ -1,7 +1,12 @@
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu789&label=Profile%20views&color=375e97&style=flat" alt="atanu789" /> </p>
 
 <h1 align="center">Hi 👋, I'm Atanu Basak</h1>
+
 <h3 align="center">A passionate developer from India</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=622&lines=An+aspiring+Competitive+ Programmer+from+India">
+</div >
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atanu789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
