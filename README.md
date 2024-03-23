@@ -30,19 +30,9 @@
 </p>
 
 
-<div>
-  <div style="display: inline-block; vertical-align: top;">
-    <div align="right">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu789&show_icons=true&locale=en&theme=dracula" alt="atanu789" />
-    </div>
-  </div>
-
-  <div style="display: inline-block; vertical-align: top;">
-    <div align="left">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu789&theme=dracula" alt="atanu789" />
-    </div>
-  </div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu789&show_icons=true&locale=en&theme=dracula" alt="atanu789" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu789&theme=dracula" alt="atanu789" 
 </div>
-
 
 
