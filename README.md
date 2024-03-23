@@ -13,7 +13,7 @@
 </div>
 
 
-<h3 align="Center">It's Meee:</h3>
+<h3 align="Center">It's Meee :</h3>
   
 <div align="center">
   <a href="https://www.leetcode.com/snow_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp;
@@ -24,9 +24,9 @@
 </div>
 
 
-<h3 align="center">⚒️ Languages and Tools ⚒️</h3>
+<h3 align="center"> Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,html,css,javascript,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,html,css,javascript,react" />
 </div>
 
 <br/>
