@@ -16,7 +16,7 @@
 <h3 align="Center">It's Meee :</h3>
   
 <div align="center">
-  <a href="https://www.leetcode.com/snow_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp;
+<!--   <a href="https://www.leetcode.com/snow_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp; -->
   <a href="https://codeforces.com/profile/atanu_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atanu_09" height="30" width="40" /></a>&nbsp;
   <a href="https://www.codechef.com/users/atanu_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atanu_09" height="30" width="40" /></a>&nbsp;
   <a href="https://linkedin.com/in/atanu basak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu basak" height="30" width="40" /></a>&nbsp;
