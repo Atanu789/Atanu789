@@ -3,7 +3,7 @@
 <div align="center"> 
 <img  src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=622&lines=Hello+there+👋+,+I'm+Atanu+Basak"> 
 </div >
-<div align="center"> 
+<div align="center">  
 <img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=622&lines=An+aspiring+Competetive+Programmer+from+India"> 
 </div > 
    
