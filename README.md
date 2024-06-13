@@ -1,5 +1,5 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu789&label=Profile%20views&color=375e97&style=flat" alt="atanu789" /> </p>
-   
+    
 <div align="center">      
 <img  src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=622&lines=Hello+there+👋+,+I'm+Atanu+Basak">     
 </div >  
